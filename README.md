@@ -3,7 +3,6 @@ I specialize in building responsive, user-friendly, and performance-optimized we
 
 
 ## 📬 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-ayushsharma00123456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsharma@00123456@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sharma-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sharma-a4604b335)
 
 # 💻 Tech Stack:
