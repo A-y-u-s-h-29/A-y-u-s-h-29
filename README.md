@@ -1,5 +1,5 @@
 # 💫 About Me:
-I specialize in building responsive, user-friendly, and performance-optimized web applications.<br><br>My core skills include HTML, CSS, JavaScript, React.js, Tailwind CSS, and I have working knowledge of the MERN stack (MongoDB, Express.js, React.js, Node.js).<br><br>I am actively improving my skills by building real-world projects, learning modern frontend architecture, and strengthening my backend integration using Node.js and Express.js.<br><br>I enjoy working on dashboards, business websites, scalable UI components, and modern web interfaces. I am passionate about clean code, good UI/UX practices, and continuous learning.
+I specialize in building responsive, user-friendly, and performance-optimized web applications.<br><br>My core skills include HTML, CSS, JavaScript, React.js, Tailwind CSS, and I have working knowledge of the MERN stack (MongoDB, Express.js, React.js, Node.js).<br><br>I am actively improving my skills by building real-world projects, learning modern frontend architecture, and strengthening my backend integration using Node.js and Express.js.<br><br>I enjoy working on dashboards, business websites, scalable UI components, and modern web interfaces. I am passionate about clean code, good UI/UX practices, and continuous learning. nWB8CXTg
 
 
 ## 📬 Connect with Me:
